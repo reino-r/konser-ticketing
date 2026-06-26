@@ -1,8 +1,8 @@
-CREATE DATABASE IF NOT EXISTS concert_ticketing
+CREATE DATABASE IF NOT EXISTS konser_ticketing
   CHARACTER SET utf8mb4
   COLLATE utf8mb4_unicode_ci;
 
-USE concert_ticketing;
+USE konser_ticketing;
 
 CREATE TABLE IF NOT EXISTS concerts (
   id        INT AUTO_INCREMENT PRIMARY KEY,

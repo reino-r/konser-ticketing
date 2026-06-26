@@ -17,7 +17,7 @@ Minimalist concert management system built with pure PHP, Bootstrap 5, and MySQL
 
 4. **Verify config** — `config.php` already points to XAMPP defaults:
    ```
-   Host: localhost | User: root | Pass: (empty) | DB: concert_ticketing
+   Host: localhost | User: root | Pass: (empty) | DB: konser_ticketing
    ```
 
 5. **Open the app** at:
